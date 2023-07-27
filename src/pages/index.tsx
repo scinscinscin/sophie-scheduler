@@ -158,7 +158,7 @@ export default function Home() {
       />
 
       <h1>kelan 🤸 free 🤸 ang 🤸 sophie 🤸 ko</h1>
-      <h2 style={{ marginBottom: "20px" }}>made by lance gulinao. join css, join tomweb.</h2>
+      {/* <h2 style={{ marginBottom: "20px" }}>made by lance gulinao. join css, join tomweb.</h2> */}
 
       <div className="inline">
         {blocks.map((b) => {
